@@ -7,5 +7,9 @@ export default {
     localhost: {
       url: "http://127.0.0.1:8545",
     }
+  },
+  // Add sourcify inside the same block
+  sourcify: {
+    enabled: false
   }
 };
